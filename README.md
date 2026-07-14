@@ -60,7 +60,8 @@ The dataset contains Flipkart sales information, including:
 
 ---  
 ## 📸 Dashboard Preview
-<img width="1674" height="1256" alt="image" src="https://github.com/user-attachments/assets/47c1eb1b-701e-4ea7-b134-c4792b3788fb" />
+<img width="1678" height="1250" alt="image" src="https://github.com/user-attachments/assets/ab0faebe-a9d0-4fb4-b80d-7f75448aac4a" />
+
 
 ---
 
